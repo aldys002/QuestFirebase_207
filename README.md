@@ -14,3 +14,12 @@ Halaman Home
 
 
 <img width="1918" height="1079" alt="Screenshot 2026-01-08 131156" src="https://github.com/user-attachments/assets/536d4057-1612-4586-ae66-f12ea9464606" />
+
+
+
+Halaman Entry Data Siswa
+
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-08 131324" src="https://github.com/user-attachments/assets/1c5e2227-edc7-44de-b17c-726cc4f78b3e" />
+
+
