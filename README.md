@@ -23,3 +23,9 @@ Halaman Entry Data Siswa
 <img width="1919" height="1079" alt="Screenshot 2026-01-08 131324" src="https://github.com/user-attachments/assets/1c5e2227-edc7-44de-b17c-726cc4f78b3e" />
 
 
+
+Halaman Home setelah tambah data baru 
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-08 131558" src="https://github.com/user-attachments/assets/ae4f7dd0-b412-4ad6-aa72-1e8ba0abb3e0" />
+
+
