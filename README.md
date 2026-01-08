@@ -42,6 +42,12 @@ Halaman Edit Siswa
 <img width="1919" height="1079" alt="Screenshot 2026-01-08 132347" src="https://github.com/user-attachments/assets/d4a95f4c-dc68-454c-b2e4-7a63573a5f2b" />
 
 
+Halaman Home setelah edit data siswa
+
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-08 132401" src="https://github.com/user-attachments/assets/b9c76b9a-d626-489e-8701-6d66d87b422c" />
+
+
 
 
 
