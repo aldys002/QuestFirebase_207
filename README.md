@@ -7,3 +7,10 @@
 
 
 <img width="1918" height="1003" alt="Screenshot 2026-01-02 202617" src="https://github.com/user-attachments/assets/c9e5adbe-5289-4783-bcaa-0d32ad912b0b" />
+
+Praktikum Kedua 
+
+Halaman Home
+
+
+<img width="1918" height="1079" alt="Screenshot 2026-01-08 131156" src="https://github.com/user-attachments/assets/536d4057-1612-4586-ae66-f12ea9464606" />
