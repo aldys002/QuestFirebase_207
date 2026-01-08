@@ -29,3 +29,11 @@ Halaman Home setelah tambah data baru
 <img width="1919" height="1079" alt="Screenshot 2026-01-08 131558" src="https://github.com/user-attachments/assets/ae4f7dd0-b412-4ad6-aa72-1e8ba0abb3e0" />
 
 
+
+
+Halaman Detail Siswa 
+
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-08 132300" src="https://github.com/user-attachments/assets/e3b3d7a0-0c03-48da-aa11-0f4eb62e0804" />
+
+
