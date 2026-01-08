@@ -14,6 +14,7 @@ import com.example.firebase.view.EditSiswaScreen
 import com.example.firebase.view.EntrySiswaScreen
 import com.example.firebase.view.HomeScreen
 import com.example.firebase.view.route.DestinasiDetail
+import com.example.firebase.view.route.DestinasiEdit
 import com.example.firebase.view.route.DestinasiEntry
 import com.example.firebase.view.route.DestinasiHome
 
