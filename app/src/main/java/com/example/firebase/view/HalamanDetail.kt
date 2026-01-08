@@ -101,9 +101,11 @@ private fun BodyDetailDataSiswa(
     modifier: Modifier = Modifier
 ) {
     Column(
-        modifier = Modifier
+        modifier = modifier
             .padding(dimensionResource(id = R.dimen.padding_medium)),
-        verticalArrangement = Arrangement.spacedBy(dimensionResource(id = R.dimen.padding_medium))
+        verticalArrangement = Arrangement.spacedBy(
+            dimensionResource(id = R.dimen.padding_medium)
+        )
     ) {
         var deleteConfirmationRequired by rememberSaveable { mutableStateOf(false) }
         when (statusUIDetail) {
