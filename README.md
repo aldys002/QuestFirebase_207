@@ -61,4 +61,10 @@ Halaman home setelah hapus satu data
 <img width="1919" height="1079" alt="Screenshot 2026-01-08 132426" src="https://github.com/user-attachments/assets/9ec321d9-0037-43b9-9bd8-7c8635bdb564" />
 
 
+Database Firebase 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09c9a8cc-d847-47c2-9a62-9247a83c8768" />
+
+
+
 
