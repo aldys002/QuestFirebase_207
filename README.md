@@ -37,3 +37,12 @@ Halaman Detail Siswa
 <img width="1919" height="1079" alt="Screenshot 2026-01-08 132300" src="https://github.com/user-attachments/assets/e3b3d7a0-0c03-48da-aa11-0f4eb62e0804" />
 
 
+Halaman Edit Siswa 
+
+<img width="1919" height="1079" alt="Screenshot 2026-01-08 132347" src="https://github.com/user-attachments/assets/d4a95f4c-dc68-454c-b2e4-7a63573a5f2b" />
+
+
+
+
+
+
